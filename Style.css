@@ -1,0 +1,16 @@
+h1  {
+  border: solid 5px red;
+  padding: 10px 20px 30px 40px;
+  margin: 25px;
+}
+
+body {
+  font-family: "helvetica", "Arial", sans-serif;
+  font-size: 18px;
+}
+
+img{
+  float: center;
+  box-shadow: 8px 8px 4px #AAA;
+  width: 1200px;
+}
